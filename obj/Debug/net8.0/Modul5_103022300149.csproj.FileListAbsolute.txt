@@ -1,0 +1,15 @@
+D:\kpl_praktikum\Modul5_103022300149\bin\Debug\net8.0\Modul5_103022300149.exe
+D:\kpl_praktikum\Modul5_103022300149\bin\Debug\net8.0\Modul5_103022300149.deps.json
+D:\kpl_praktikum\Modul5_103022300149\bin\Debug\net8.0\Modul5_103022300149.runtimeconfig.json
+D:\kpl_praktikum\Modul5_103022300149\bin\Debug\net8.0\Modul5_103022300149.dll
+D:\kpl_praktikum\Modul5_103022300149\bin\Debug\net8.0\Modul5_103022300149.pdb
+D:\kpl_praktikum\Modul5_103022300149\obj\Debug\net8.0\Modul5_103022300149.GeneratedMSBuildEditorConfig.editorconfig
+D:\kpl_praktikum\Modul5_103022300149\obj\Debug\net8.0\Modul5_103022300149.AssemblyInfoInputs.cache
+D:\kpl_praktikum\Modul5_103022300149\obj\Debug\net8.0\Modul5_103022300149.AssemblyInfo.cs
+D:\kpl_praktikum\Modul5_103022300149\obj\Debug\net8.0\Modul5_103022300149.csproj.CoreCompileInputs.cache
+D:\kpl_praktikum\Modul5_103022300149\obj\Debug\net8.0\Modul5_103022300149.sourcelink.json
+D:\kpl_praktikum\Modul5_103022300149\obj\Debug\net8.0\Modul5_103022300149.dll
+D:\kpl_praktikum\Modul5_103022300149\obj\Debug\net8.0\refint\Modul5_103022300149.dll
+D:\kpl_praktikum\Modul5_103022300149\obj\Debug\net8.0\Modul5_103022300149.pdb
+D:\kpl_praktikum\Modul5_103022300149\obj\Debug\net8.0\Modul5_103022300149.genruntimeconfig.cache
+D:\kpl_praktikum\Modul5_103022300149\obj\Debug\net8.0\ref\Modul5_103022300149.dll
