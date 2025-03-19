@@ -19,6 +19,20 @@ class PemrosesData {
         return Terbesar;
     }
 
+    //class simpleDataBase<T> {
+    //    private List<T> storedData;
+    //    private List<DateTime> inputData;
+
+    //    public simpleDataBase(){
+    //        storedData = new List<T>();
+    //        inputData = new List<DateTime>();
+    //    }
+
+    //    public void addNewData(T) { 
+            
+    //    }
+    //}
+
     class program {
         static void Main() {
             PemrosesData searching = new PemrosesData();
